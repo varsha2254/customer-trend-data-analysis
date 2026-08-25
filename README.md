@@ -57,11 +57,7 @@ This project was originally developed by Amlan Mohanty and is maintained by Manm
 ## Maintainer
 Manmohan S. is a Supply Chain Analyst with over 4 years of experience supporting inventory planning, logistics coordination, and procurement operations. He specializes in using SQL, Python, and Power BI to improve reporting accuracy and operational visibility in high-volume business environments.
 
-### Connect with the Developer
-If you have questions about this project or want to discuss data analytics and supply chain trends, feel free to reach out:
 
-- LinkedIn: https://www.linkedin.com/in/manmohan-sangola/
-- Email: manmohansangola1@gmail.com
-- GitHub: https://github.com/manmohansangola
+
 
 Thanks for checking out the project. Feel free to star this repo if you find it helpful for your data analytics journey.
